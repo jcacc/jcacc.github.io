@@ -48,3 +48,18 @@ footer {
   padding: 10px;
   text-align: center;
 }
+
+.about-photo {
+  width: 150px; /* Adjust the width as per your preference */
+  height: 150px; /* Adjust the height as per your preference */
+  border-radius: 50%;
+  overflow: hidden;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
